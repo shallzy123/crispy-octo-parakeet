@@ -9,7 +9,7 @@ This project can be used by real estate agents, buyers, or sellers to get a quic
 
 1.**Clone the repository:**
     ```bash
-    git clone <https://github.com/shallzy123/crispy-octo-parakeet/tree/main>
+    git clone <https://github.com/shallzy123/Housing-price-prediction-project>
     cd <repository-directory>
     ```
 
